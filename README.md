@@ -12,11 +12,13 @@
 
 <br><br><br>Connect with me<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="maõs" style="width:10%;">
 
-<a href="https://www.linkedin.com/in/matheus-holanda-passos-1151a81b0/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Texto Alternativo" style="width:15%;">
-<a href="https://github.com/MatheusP4ssos">
-    <img src = "https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt ="Texto alternativo" style="width:25%;">
-</a><br><br><br>
+<a href="https://www.linkedin.com/in/matheus-holanda-passos-1151a81b0/" style="display: inline-block;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Texto Alternativo" style="width:10%;">
+</a>
+
+   <a href="https://github.com/MatheusP4ssos" style="display: inline-block;">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Texto alternativo" style="width:35%;">
+</a>
 
 
 languages
