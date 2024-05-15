@@ -1,5 +1,5 @@
 ### Hello! I'm Matheus Passos 👋
-<img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="30">>
+<img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="30">
 
 <br><br><br>About me <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" style="width:25%;"><br>
 -Computer science student<br>
