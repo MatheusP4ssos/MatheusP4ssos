@@ -34,10 +34,27 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusP4ssos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
+  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">**Github Stats**   
+<div align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeoGuedex&theme=tokyonight&rank_icon=defaut&include_all_commits=true" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoGuedex&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeoGuedex&theme=tokyonight&utcOffset=-3" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoGuedex&theme=tokyonight"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoGuedex&theme=tokyonight&card_width=500px" />
+</a>
+</div>
 
+<div align="center">
+       <img src="https://github-profile-trophy.vercel.app/?username=LeoGuedex&theme=tokyonight&column=-1"/>
+   </div>
 
+<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+
 
 <br><br><br>Connect with me...!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="maõs" style="width:5%">
 
@@ -53,3 +70,4 @@
         </a>
     </div>
 </div>
+
