@@ -1,24 +1,14 @@
-### Hello! I'm Matheus Passos 👋
-<img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="30"  width="7000">
+<p align="center"><b>Hi Everyone, I'm Matheus Passos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></p>
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Brazilian%2C+26+years+old;My+love+is+Java" alt="Typing SVG" /></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br><br><br>About me <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" style="width:25%;"><br>
 -Computer science student<br>
 -Specializing in Java<br>
 -Reading or playing games in free time<br>
 -Looking for first professional opportunity<br>
-<img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="30" width="7000">
-
-
-
-<br><br><br>Connect with me<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="maõs" style="width:10%;">
-
-<a href="https://www.linkedin.com/in/matheus-holanda-passos-1151a81b0/" style="display: inline-block;">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Texto Alternativo" style="width:10%;">
-</a>
-
-   <a href="https://github.com/MatheusP4ssos" style="display: inline-block;">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Texto alternativo" style="width:35%;">
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 languages
@@ -41,4 +31,18 @@ languages
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusP4ssos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br><br><br>Connect with me...!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="maõs" style="width:5%;">
+
+<a href="https://www.linkedin.com/in/matheus-holanda-passos-1151a81b0/" style="display: inline-block">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Texto Alternativo" style="width:5%;">
+</a>
+
+   <a href="https://github.com/MatheusP4ssos" style="display: inline-block;">; <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Texto alternativo" style="width:20%;">
+</a>
+
+
 
