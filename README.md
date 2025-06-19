@@ -43,12 +43,11 @@ w<p align="center"><b>Hi Everyone, I'm Matheus Passos </b><img src="https://medi
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusP4ssos&theme=tokyonight"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusP4ssos&theme=tokyonight&card_width=500px" />
 </a>
-</div>
+<div align="center">
+  <p><strong>Connect with me...!</strong></p>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="mãos" style="width:5%;"><br><br>
 
-<br><br><br>Connect with me...!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="maõs" style="width:5%">
-
-<p align="center">
   <a href="https://www.linkedin.com/in/math-holanda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+</div>
