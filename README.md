@@ -45,10 +45,10 @@ w<p align="center"><b>Hi Everyone, I'm Matheus Passos </b><img src="https://medi
 </a>
 </div>
 
-<div align="center">
-       <img src="https://github-profile-trophy.vercel.app/?username=MatheusP4ssos&theme=tokyonight&column=-1"/>
-   </div>
+<br><br><br>Connect with me...!<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="maõs" style="width:5%">
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/math-holanda/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
