@@ -47,11 +47,13 @@
 ---
 
 ### 🎯 Goals for 2025
-- 🔨 Contribuir em projetos open source
-- 📚 Aprofundar em Java e frameworks como Spring
-- 🧪 Criar APIs REST e aplicações backend robustas
-- 👨‍💼 Conquistar minha primeira vaga como Dev
+- 🔨 Contribute to open source projects
 
+- 📚 Deepen my knowledge of Java and frameworks like Spring
+
+- 🧪 Build robust REST APIs and backend applications
+
+- 👨‍💼 Land my first job as a developer
 ---
 
 ### 📫 Let's Connect
