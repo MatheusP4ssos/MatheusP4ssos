@@ -38,10 +38,10 @@
 ### 🚀 Featured Projects
 
 🔗 [**DSList**](https://github.com/MatheusP4ssos/dslist)  
-Full-stack Java project using Spring Boot, JPA, PostgreSQL and React. Game listing backend with RESTful API and web interface.
+Java project using Spring Boot, JPA and PostgreSQL. Game listing backend with RESTful API and web interface.
 
 🔗 [**Convite Digital**](https://github.com/MatheusP4ssos/Convite-Digital)  
-Simple and customizable digital invitation page. Personal project to practice front-end and deploy skills.
+Backend project built with Java, Spring Boot, JPA and PostgreSQL. Provides a RESTful API for managing a list of games.
 
 ---
 
