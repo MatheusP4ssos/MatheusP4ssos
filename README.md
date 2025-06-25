@@ -6,51 +6,45 @@
 ---
 
 ### 💡 About Me
-
-I'm a Brazilian Computer Science student passionate about Java and backend development.  
-I enjoy learning new technologies, building APIs, and am actively seeking my first opportunity as a developer.
+- 🎓 Computer Science Student  
+- ☕ Java Developer in the making  
+- 🎮 Gamer and curious by nature  
+- 🌱 Currently learning Spring Boot and REST APIs  
+- 🔍 Seeking my first opportunity in tech
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### 👨‍💻 Languages & Technologies  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![H2](https://img.shields.io/badge/H2-006666.svg?style=for-the-badge&logo=h2&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![REST](https://img.shields.io/badge/REST-API-%23007ACC.svg?style=for-the-badge&logo=flask&logoColor=white)  
+#### 👨‍💻 Languages & Technologies
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-006666.svg?style=for-the-badge&logo=h2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-%23007ACC.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-#### 🧰 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+#### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
+🔗 [**DSList**](https://github.com/MatheusP4ssos/dslist)  
+Full-stack Java project using Spring Boot, JPA, PostgreSQL and React. Game listing backend with RESTful API and web interface.
+
 🔗 [**Convite Digital**](https://github.com/MatheusP4ssos/Convite-Digital)  
-A simple and elegant digital invitation platform. Great for events and personal showcases.
-
-🔗 [**Workshop Spring Boot JPA**](https://github.com/MatheusP4ssos/workshop-springboot-jpa)  
-A backend project using Java, Spring Boot, JPA and H2. Focused on learning data persistence and RESTful APIs.
+Simple and customizable digital invitation page. Personal project to practice front-end and deploy skills.
 
 ---
 
-### 🎯 Goals for 2025
-
-- 🔨 Contribute to open source projects  
-- 📚 Deepen my knowledge of Java and frameworks like Spring  
-- 🧪 Build robust REST APIs and backend applications  
-- 👨‍💼 Land my first job as a developer
-
----
 
 ### 📈 GitHub Stats
 
@@ -63,16 +57,25 @@ A backend project using Java, Spring Boot, JPA and H2. Focused on learning data 
 
 ---
 
+### 🎯 Goals for 2025
+- 🔨 Contribute to open source projects
+
+- 📚 Deepen my knowledge of Java and frameworks like Spring
+
+- 🧪 Build robust REST APIs and backend applications
+
+- 👨‍💼 Land my first job as a developer
+---
+
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Matheus%20Passos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/math-holanda/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusP4ssos)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.senai2016@gmail.com)  
-📧 matheus.senai2016@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-Matheus%20Passos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/math-holanda/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusP4ssos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.senai2016@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
 </p>
 
