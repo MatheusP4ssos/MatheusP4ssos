@@ -23,6 +23,7 @@
 ![H2](https://img.shields.io/badge/H2-006666.svg?style=for-the-badge&logo=h2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-API-%23007ACC.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://www.luiztools.com.br/wp-content/uploads/2017/09/mongodb-logo-rgb-j6w271g1xn-1024x270.jpg)
 
 #### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
